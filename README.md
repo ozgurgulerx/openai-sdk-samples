@@ -1,4 +1,4 @@
-<!-- README.md – OpenAI SDK Samples xxx -->
+<!-- README.md – OpenAI SDK Samples xxx xxx-->
 
 <h1 align="center">
   🚀 OpenAI SDK Samples
